@@ -12,4 +12,4 @@ Win10
 
 Requirements
 - Visual Studio 2019 with cl, ML, ML64 usually installed with the C++ compiler environment
-- mingw32/64 using AT&T syntax in Windows OS
+- mingw32/64 for AT&T syntax in Windows OS
