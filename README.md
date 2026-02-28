@@ -4,5 +4,6 @@ Welcome to The Byte Cave cpplearning code repository!
 
 This is the complementary learning content to the [The Byte Cave cpplearning wiki](https://github.com/itzjac/cpplearning/wiki).
 
-Access to the code and solutions, request access is mandatory.
+Code and solutions are private, request is mandatory.
+
 
